@@ -28,6 +28,8 @@ gem "jbuilder"
 
 gem 'flickr', '~> 2.1'
 
+gem "figaro"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
